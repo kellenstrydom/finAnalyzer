@@ -19,7 +19,7 @@ The complexity is that this company generates it income from an international ma
 The input for this task is an array that contains a list of financial transactions (Date, Type, Amount). A two line example is shown below: the first transaction (2024-01-01) is of type 'income' of $50. The second transaction (2024-01-02) is of type 'expense' of R500.  
 
 ```
-FinancialTransaction("2024-01-01", "Income", 1000),
+FinancialTransaction("2024-01-01", "Income", 50),
 FinancialTransaction("2024-01-02", "Expense", 500),
 ```
 
