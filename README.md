@@ -28,3 +28,7 @@ FinancialTransaction("2024-01-02", "Expense", 500),
 The program is run from the command line as follows:
 ```
 python3 FinancialHealthAnalyzer.py
+
+# Expected output
+
+This program should output the profit, profit margin, average transaction amount and financial health of the company to the console and should then print the test results.
