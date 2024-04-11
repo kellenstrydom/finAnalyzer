@@ -6,7 +6,7 @@ The five calculations to be done are as follows:
 * Total revenue = sum of all income
 * Total expenses = sum of all expenses
 * Profit = total revenue - total expenses
-* Profit margin = profit margin / revenue
+* Profit margin = profit / revenue
 * Average transaction amount = (total revenue - total expenses) / amount of transactions 
 
 The program should then categorize the financial health based on profit according to these rules:
